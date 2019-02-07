@@ -1,2 +1,2 @@
 # meTAInstall
-Metasploit Installer By Mr.IM81
+Metasploit Installer By T4mpan_m4ut
